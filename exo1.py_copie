@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+import sys
+try:
+except Exception as e:
+    sys.exit(1)
+compteur_lignes = 0
+while 1:
+    if not ligne:
+    compteur_lignes += 1
+print('Nombre de lignes : ',compteur_lignes)
