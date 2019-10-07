@@ -1,2 +1,2 @@
 # ResAVL
-Pratice 
+Practice 
